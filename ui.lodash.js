@@ -1,7 +1,7 @@
 (function (ng, _) {
   'use strict';
 
-  var lodashModule = ng.module('ui-lodash', []);
+  var lodashModule = ng.module('ui.lodash', []);
 
   var adaptList = Object.getOwnPropertyNames(_).filter(function(property) {
     return typeof _[property] == 'function';
