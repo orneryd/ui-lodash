@@ -1,5 +1,5 @@
 {
-  "name": "ui-lodash",
+  "name": "angular-ui-lodash",
   "version": "0.1.0",
   "main": "ui.lodash.js",
   "dependencies": {
