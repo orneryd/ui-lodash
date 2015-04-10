@@ -20,9 +20,9 @@
     });
   });
 
-  lodashModule.factory('_', function($window) {
+  lodashModule.factory('_', ['$window', function($window) {
     // place lodash include before angular
     return $window._;
-  });
+  }]);
 
 }(angular, _));
