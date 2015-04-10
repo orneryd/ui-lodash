@@ -4,5 +4,6 @@
   "main": "angular-ui-lodash.min.js",
   "dependencies": {
     "lodash": "~3.6.0"
-  }
+  },
+   "ignore": []
 }
