@@ -1,0 +1,8 @@
+{
+  "name": "ui-lodash",
+  "version": "0.1.0",
+  "main": "ui.lodash.js",
+  "dependencies": {
+    "lodash": "~3.6.0"
+  }
+}
