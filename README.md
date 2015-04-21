@@ -1,7 +1,7 @@
 # ui-lodash
 LoDash adapter for angular.js
 
-Also exposes all lodash api's as filters and injects lodash as a factory.
+Also exposes every lodash api as a filter and injects lodash as a factory.
 ```
 bower install ui-lodash --save
 or
